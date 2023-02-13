@@ -1,0 +1,16 @@
+A complete data pipeline have been created with airflow assumes there is already airflow installed.
+
+started the airflow.
+
+created the airflow dag.
+
+submitted the dag to webserver and monitered the dags health.
+
+
+In kafka project kafka have been installed on the shell.
+with connecting to My-sql server as database.
+
+Topics have created.
+
+workflow have been pipelined to run the python files to generate topic packets and 
+served into the sql database.
